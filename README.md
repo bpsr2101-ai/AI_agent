@@ -42,7 +42,7 @@ AI Agent is a full-stack application that allows users to upload device manuals 
    ```
 3. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r backend/requirements.txt
    ```
 4. Create a `.env` file in `backend/` with your OpenAI API key:
    ```env
